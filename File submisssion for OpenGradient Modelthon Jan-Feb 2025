@@ -1,0 +1,33 @@
+**TANH Horizon Pro - Model Submission**
+
+**Author:** Bruce
+
+### Overview
+TANH Horizon Pro is an advanced time series forecasting model designed for predicting ETH and BTC spot prices. Using machine learning techniques optimized for financial data, the model leverages ONNX for efficient real-time inference and high-performance predictions.
+
+### Key Features
+- Optimized for ETH and BTC forecasting
+- Implements ZTAE for improved accuracy in extreme price movements
+- Fully compatible with ONNX for seamless deployment
+- Preprocessing steps embedded for standalone execution
+
+### Input Format
+The model expects input data structured as follows:
+```
+{
+  "candles": [[timestamp, open, high, low, close, volume],
+               [timestamp, open, high, low, close, volume],
+               ...]
+}
+```
+
+### Licensing
+TANH Horizon Pro is released under the **Apache 2.0 License**, allowing broad usage, modification, and distribution with proper attribution.
+
+### Submission Details
+- **Track:** ETH/BTC Spot Forecast or Freestyle
+- **Framework:** ONNX
+- **Competitor:** Bruce
+
+This model is designed to contribute significantly to decentralized trading intelligence and automated risk assessment within the Web3 ecosystem.
+
