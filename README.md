@@ -33,4 +33,4 @@ TANH Horizon Pro is released under the Apache 2.0 License, allowing for broad us
 Conclusion
 TANH Horizon Pro stands out as a high-performance forecasting model optimized for crypto volatility and extreme price movement detection. With its ONNX-based deployment, innovative loss function, and structured feature engineering, it is poised to set a new standard in financial time series forecasting on OpenGradient.
 
-Competitor: Bruce Submission Track: ETH/BTC Spot Forecast or Freestyle Track Model Type: Time Series Forecasting Framework: ONNX
+Competitor: Bruce (fibon) Submission Track: ETH/BTC Spot Forecast or Freestyle Track Model Type: Time Series Forecasting Framework: ONNX
